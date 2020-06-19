@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  font-size: 45px;
+  box-sizing: border-box;
+  color: violet;
+  background-image: url("images/black.jpg"); 
+}
+.intro {
+  color: lightyellow;
+  font-size: 40px;
+  line-height: 40px
+  text-transform: uppercase;
+  display: inline;
+}
+.education {
+	padding: 50px;
+	font-size: 40px;
+	display: left;
+	color: coral;
+}
+
+.work {
+	font-size: 30px;
+	color: cyan; 
+}
+
+.skills {
+  font-size: 30px
+  color: gold;
+}
+
