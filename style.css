@@ -3,7 +3,7 @@ body {
   font-size: 45px;
   box-sizing: border-box;
   color: violet;
-  background-image: url("images/black.jpg"); 
+  background-image: url("black.jpg"); 
 }
 .intro {
   color: lightyellow;
